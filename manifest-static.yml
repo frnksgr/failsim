@@ -1,0 +1,8 @@
+---
+applications:
+- name: failsim
+  buildpack: binary_buildpack
+  command: ./failsim
+  memory: 128M
+  instances: 1
+  path: .

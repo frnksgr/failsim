@@ -1,0 +1,6 @@
+failsim
+failsim.alpine
+Makefile
+Dockerfile
+tmp
+*.swp
